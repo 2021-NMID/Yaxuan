@@ -3,3 +3,4 @@
 3、安装了git，vs code，typora等软件
 4、学习了Markdown语法
 个人网站：https://2020210466.github.io/
+具体学习情况在task_1里
