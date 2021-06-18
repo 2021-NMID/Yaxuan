@@ -18,4 +18,4 @@ HTML不是一种编程语言，而是一种标记语言。
 
 网页生成制作：由前端人员书写html文件，然后浏览器打开。
 
-![](https://github.com/2021-NMID/Yaxuan/blob/duanchen/task_2/%E7%B2%BE%E7%81%B5%E5%9B%BE.jpg)
+
