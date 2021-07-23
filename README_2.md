@@ -7,10 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>精灵图</title>
     <style>
-    div{
-        display:inline-block;
-        border: 2px solid #000;
-}
+   .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid #000;
+        }
     .box1{
     background:url(images/jingling_03.png);
     width:100px;
@@ -51,13 +53,15 @@
     
 </head>
 <body>
+    <div class="center">
 <div class="box1"><strong>第一个盒子</strong></div>
 <div class="box2"><strong>第二个盒子</strong></div>
 <div class="box3"><strong>第三个盒子</strong></div>
 <div class="box4"><strong>第四个盒子</strong></div>
 <div class="box5"><strong>第五个盒子</strong></div>
+    </div>
 </body>
 </html>
 ```
-
-![](D:\image\精灵图.jpg)
+### 精灵图网页
+https://2020210466.github.io/duanchen.github.io/
